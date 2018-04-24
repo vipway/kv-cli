@@ -5,7 +5,7 @@ kv-ui tools
 ## Installation
 
 ```javascript
-$ npm install -g vue-cli
+npm install kv-cli --save-dev
 ```
 
 ## Usage

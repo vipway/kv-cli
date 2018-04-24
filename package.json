@@ -1,7 +1,11 @@
 {
   "name": "kv-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "kv-ui tools",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vipway/kv-cli.git"
+  },
   "bin": {
     "kv-cli": "./bin/kv-cli.js",
     "kv-cli-run": "./bin/kv-cli-run.js"
