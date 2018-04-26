@@ -17,5 +17,6 @@ kv-cli run <command>
 Example
 
 ```javascript
-kv-cli run compile
+kv-cli run compile // compile typescript code.
+kv-cli run compile-kv-design  // Specify the compilation project.
 ```
