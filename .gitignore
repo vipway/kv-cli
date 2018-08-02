@@ -8,3 +8,7 @@ node_modules
 # mac vscode
 .DS_Store
 .vscode
+
+# npm lock
+yarn.lock
+package-lock.json
